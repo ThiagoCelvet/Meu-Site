@@ -1,4 +1,4 @@
-const url = "https://www.youtube.com/watch?v=WBtysgBsCA0"
+const url = "https://www.youtube.com/watch?v=1R3izVppzJc"
 const btn = document.querySelector('#aceitou')
 function openInNewTab(url) {
   const win = window.open(url, 'blank')
@@ -10,7 +10,7 @@ btn.addEventListener('click', ()  => {
 })
 
 function sim(){
-    alert("Você aceitou :)")
+    alert("Você é Gay KSKSKS :)")
 }
 
 function desvia(t){

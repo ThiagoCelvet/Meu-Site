@@ -1,5 +1,5 @@
 #Conteudo{
-    background-color: rgb(253, 101, 101);
+    background-image: url(rainbow.gif);
     width: 100%;
     height: 100%;
     position: fixed;
@@ -10,7 +10,7 @@
     margin: auto;
          }
     button{
-    background-color: black;
+    background-color:black;
     color: wheat;
     padding: 10px;
     width: 80px;
